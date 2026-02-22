@@ -71,7 +71,5 @@ const createUser = async (req, res)=>{
                 // }
             }
 
-
-
-
+            
 export {welcometoDb, createUser, UserModal ,  fetchAllUser};
